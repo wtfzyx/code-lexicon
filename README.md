@@ -59,7 +59,7 @@ python -m http.server 8000
 
 ## 🌐 在线体验
 
-https://WTFZYX.github.io/编程学习天堂/
+https://wtfzyx.github.io/code-lexicon/
 
 ## 🛠 技术栈
 
